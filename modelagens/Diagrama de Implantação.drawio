@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="IsLk3wRV2srUhDNay5zy">
+    <mxGraphModel dx="1588" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="291" pageHeight="413" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-16" value="Banco de dados" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="35" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-1" value="Cliente: Browser" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="35" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-2" value="Gerenciar Olimpíadas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-3" value="Servidor de Aplicação" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="35" width="180" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=10;entryDy=180;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WvQiWmYdrvryHstG9ZQ6-1" target="WvQiWmYdrvryHstG9ZQ6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="100" />
+              <mxPoint x="70" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-5" value="&amp;lt;&amp;lt;HTTP&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WvQiWmYdrvryHstG9ZQ6-4">
+          <mxGeometry x="0.1069" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-6" value="Inscrições" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-7" value="Alocação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-8" value="Relatórios" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-9" value="Resultados" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-15" value="SGBD" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="95" as="sourcePoint" />
+            <mxPoint x="390" y="105" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-18" value="&amp;lt;&amp;lt;ODBC&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WvQiWmYdrvryHstG9ZQ6-17">
+          <mxGeometry x="0.1069" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WvQiWmYdrvryHstG9ZQ6-24" value="Competição" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
