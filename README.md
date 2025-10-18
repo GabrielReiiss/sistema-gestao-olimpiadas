@@ -13,3 +13,21 @@ US04 (Alocação de Locais): Como um Coordenador do Comitê, eu quero alocar loc
 US05 (Registro de Resultados): Como um Coordenador do Comitê, eu quero registrar os resultados das competições (1º, 2º e 3º lugar), para oficializar os vencedores.
 
 US06 (Geração de Relatórios): Como um Coordenador do Comitê, eu quero gerar relatórios de medalhas por país, para acompanhar o desempenho geral das nações.
+
+## Diagramas ##
+
+### Diagrama de Caso de Uso ###
+
+<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Caso%20de%20Uso.png"/>
+
+### Diagrama de Classes e Pacotes ###
+
+<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Classes%20e%20Pacotes.png"/>
+
+### Diagrama de Componentes ###
+
+<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Componentes.png"/>
+
+### Diagrama de Implantação ###
+
+<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png"/>
