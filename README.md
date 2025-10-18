@@ -18,16 +18,16 @@ US06 (Geração de Relatórios): Como um Coordenador do Comitê, eu quero gerar 
 
 ### Diagrama de Caso de Uso ###
 
-<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Caso%20de%20Uso.png"/>
+<img width="1000px" height="1000px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Caso%20de%20Uso.png"/>
 
 ### Diagrama de Classes e Pacotes ###
 
-<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Classes%20e%20Pacotes.png"/>
+<img width="1000px" height="1000px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Classes%20e%20Pacotes.png"/>
 
 ### Diagrama de Componentes ###
 
-<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Componentes.png"/>
+<img width="1000px" height="1000px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Componentes.png"/>
 
 ### Diagrama de Implantação ###
 
-<img width="500px" height="500px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png"/>
+<img width="1000px" height="1000px" src="https://github.com/GabrielReiiss/sistema-gestao-olimpiadas/blob/main/imagens/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png"/>
