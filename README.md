@@ -1,6 +1,6 @@
 # Sistema Gestao Olimpiadas - SGO
 
-##Histórias de Usuário##
+## Histórias de Usuário ##
 
 US01 (Cadastro de Competições): Como um Coordenador do Comitê, eu quero cadastrar novas competições com modalidade, data, horário e local, para organizar o cronograma dos eventos.
 
